@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/JeetexExchange",
   "VITE_SEO_SITE_NAME": "Jeetex",
   "VITE_SEO_SITE_DESCRIPTION": "India's #1 exchange for top jeets. Trade on Jeetex now and retire your village.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/jeetex-0905/",
+  "VITE_SEO_SITE_URL": "https://jeetex.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
